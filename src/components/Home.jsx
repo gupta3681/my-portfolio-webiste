@@ -1,5 +1,5 @@
 import React from 'react'
-import heroImage from '/Users/gupta_368/mine/src/assets/heroImage.png'
+import heroImage from '../assets/heroImage.png'
 import {MdKeyboardArrowRight} from 'react-icons/md'
 import Link from 'react-scroll/modules/components/Link'
 
