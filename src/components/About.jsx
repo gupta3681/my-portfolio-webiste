@@ -15,7 +15,7 @@ const About = () => {
                 </p>
                 <br/>
                 <p className='text-xl'>
-                I love learning new technologies and then applying them to various fields. I recently worked on an ETA prediction model for a delivery app in South Africa which gave me deeper insights about machine learning and the various models used these days. I strongly beleive in the expansion of tech to all most all fields in the coming years and that has led me to explore and read about the various upcoming technologies including blockchain and the concept of WEB 3.0. Apart from being fascinated about tech, I spend my time swing trading in the Indian stock market, working as a xtutor at the engineering college and watching football.
+                I love learning new technologies and then applying them to various fields. I recently worked on an ETA prediction model for a delivery app in South Africa which gave me deeper insights about machine learning and the various models used these days. I strongly beleive in the expansion of tech to all most all fields in the coming years and that has led me to explore and read about the various upcoming technologies including blockchain and the concept of WEB 3.0. Apart from being fascinated about tech, I spend my time swing trading in the Indian stock market, working as a tutor at the engineering college and watching football.
                 </p>
             </div>
         </div>
