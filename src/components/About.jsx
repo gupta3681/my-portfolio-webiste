@@ -9,9 +9,13 @@ const About = () => {
                 About
                 </p>
                 <p className='text-xl mt-20'>
-                Hello! I am currently a rising junior at Boston University studying Computer Engineering with a minor in Economics. I recently switched from majoring in Mechanical engineering to Computer engineering and have been since deeply interested in learning about the intersection of tech and business. 
-                Some of my recent projects have allowed me to gain an understanding of object oriented programming, web development, machine learing and cloud services.
-               
+                As a highly motivated senior at Boston University, currently pursuing a degree in Computer Engineering with a minor in Economics, I have developed a strong foundation in technical expertise and business acumen. I am eager to explore opportunities that allow me to apply my skills and drive innovation and growth.
+
+Throughout my academic journey, I have focused on refining my skills in object-oriented programming and web development, particularly using React. I have gained hands-on experience through various projects, which have deepened my understanding of these technologies. I strive for excellence in my work and constantly seek out opportunities to expand my knowledge and skills.
+
+As I approach the next phase of my career, I am excited to connect with professionals who share my passion for technology and business. I am open to exploring potential opportunities and seeking guidance from experienced individuals in the field. I would greatly appreciate the opportunity to learn from your experiences and gain insights into the industry.
+
+Thank you for taking the time to read my message, and I look forward to connecting with you.
                 </p>
                 <br/>
                 <p className='text-xl'>
